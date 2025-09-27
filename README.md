@@ -66,5 +66,3 @@ International academic dashboard supporting English, German, and Spanish. Real-t
 - 💼 [Portfolio](https://matthes-kaiser-portfolio.vercel.app/) - See my work in action
 - 💬 [LinkedIn](https://www.linkedin.com/in/mattheskaiser/) - Let's talk shop
 - 📧 mattheskaiser02@gmail.com - Always open to interesting conversations
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattheskaiser&show_icons=true&theme=dark&count_private=true)
